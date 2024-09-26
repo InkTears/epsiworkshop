@@ -1,0 +1,22 @@
+.dropdowns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin : 50px 0 0 0;
+}
+.dropdowns > div {
+    width: 200px;
+    text-align:center;
+}
+#dropanswer {
+    display:block;
+    text-align:center;
+    margin: 50px auto;
+}
+.canvasdiv > div > div {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}

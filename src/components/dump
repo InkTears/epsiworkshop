@@ -1,0 +1,5 @@
+if (varposition === way.salle1) {
+                    console.log(way.salle2)
+                    return way.answer
+                }
+                return "La sélection est incorrecte"
